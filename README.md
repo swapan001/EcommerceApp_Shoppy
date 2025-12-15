@@ -18,8 +18,7 @@ A modern, responsive e-commerce web application built with **React** and powered
 - **Responsive Design**  
   Optimized for desktop, tablet, and mobile devices.
 
-- **Payment Simulation**  
-  Mock checkout process (can be integrated with real payment gateways like Stripe in production).
+
 
 - **Admin Panel**  
   Manage products, orders, and users (if applicable).
@@ -27,8 +26,7 @@ A modern, responsive e-commerce web application built with **React** and powered
 - **API Integration**  
   Fetches data from a backend RESTful API.
 
-- **Dark Mode**  
-  Toggle between light and dark themes for better user experience.
+
 
 ---
 
@@ -40,15 +38,15 @@ A modern, responsive e-commerce web application built with **React** and powered
 - React Router (navigation)
 
 ### Styling
-- CSS3
-- Bootstrap / Tailwind CSS (or custom styles)
+
+- Bootstrap 
 
 ### Backend
 - Node.js
 - Express.js
 
 ### Database
-- MongoDB or Firebase
+- MongoDB 
 
 ### Other Tools
 - Axios (API calls)
